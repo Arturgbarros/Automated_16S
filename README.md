@@ -1,5 +1,5 @@
 # Automated-16S
-### Dependences
+## Dependences
 * Conda general environment with:
     * fastqc
       ```
