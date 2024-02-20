@@ -1,7 +1,8 @@
+# Automated-16S
 ![image](https://github.com/Arturgbarros/Automated-16S/assets/125391314/2ad1adb1-c148-4778-8011-040f5d6cdef1)
 In this script, I aimed to automate the entire process of 16S analysis, allowing for flexibility in adjusting each command to suit different situations. Users can simply input the required parameters for each step, enabling seamless utilization of the code without any modifications.
 
-# Automated-16S
+
 ## Dependences
 * Conda general environment with:
     * fastqc
