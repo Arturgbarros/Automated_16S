@@ -30,7 +30,7 @@ In this script, I aimed to automate the entire process of 16S analysis, allowing
       ```
       https://docs.qiime2.org/2023.9/install/native/
       ```
-# The comand line
+# The comand line without qiime
 ```bash
 #!/bin/bash
 
